@@ -1,0 +1,3 @@
+LinkedList和ListNode的区别
+LinkedList有个getFirst和getLast和get(int Index)方法（遍历获取节点）
+ListNode我们可以获取指定元素，例如我们可以通过map保存ListNode，并且get指定的ListNode后直接定位到ListNode的位置，不需要遍历ListNode（就是get index和get 指针的区别）
